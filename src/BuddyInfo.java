@@ -25,8 +25,8 @@ public class BuddyInfo {
 		return name;
 	}
 
-	public void setName(String name) {
-		this.name = name;
+	public void setName(String name1) {
+		this.name = name1; 
 	}
 
 	public BuddyInfo(int num, String name, String address) {
