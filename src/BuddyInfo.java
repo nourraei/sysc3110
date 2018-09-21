@@ -25,7 +25,7 @@ public class BuddyInfo {
 		return name;
 	}
 
-	public void setName(String name1) {
+	public void setName(String name1) { //h
 		this.name = name1; 
 	}
 
